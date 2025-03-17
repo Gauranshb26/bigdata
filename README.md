@@ -1,6 +1,6 @@
 # BigData_Project
 
-## 📂 Dataset
+##  Dataset
 The dataset is too large for GitHub. Download it from Google Drive:
 
 - **[Charts Dataset]([https://drive.google.com/file/d/XXXXX/view?usp=sharing](https://drive.google.com/file/d/1nMJkT-mXTM9O3aonnk7XhtxnOgK28XoO/view?usp=sharing))**  
